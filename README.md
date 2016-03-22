@@ -1,4 +1,4 @@
-# Pre-requisites:
+# Pre-requisites
 
 - Adafruit Feather BLE: https://www.adafruit.com/product/2829
 - Arduino Setup:        https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/setup
@@ -25,20 +25,20 @@ Once the sketch is uploaded to the Feather open this web page in a browser to co
 Note: On some browser versions and platform you may get a message "GATT operation failed for unknown reason" this is often a warning that can be ignored, mostly...
 
 
+# Running
+
 This demo can be viewed in multiple ways
 
-* 'Live' editable version [on Plunker](https://embed.plnkr.co/nd5uBt/):		
+* A 'Live and editable' version [on Plunker](https://embed.plnkr.co/nd5uBt/):		
 
-*  Hosted on [GitHub pages](https://www.thebubbleworks.com/TheBubbleWorks_WebBluetooth_AdafruitFeather_Blink_Simple/) (gh-pages branch).
+* Here, hosted via [GitHub pages](https://www.thebubbleworks.com/TheBubbleWorks_WebBluetooth_AdafruitFeather_Blink_Simple/) (gh-pages branch).
 
-
-* On your local comuter after checking out this repository and running a simple Python HTTPS Server:
+* On your local computer, after checking out this repository and running a simple Python HTTPS Server:
 ```
 git clone https://github.com/TheBubbleWorks/TheBubbleWorks_WebBluetooth_AdafruitFeather_Blink_Simple
 ```
 
 To run the server:
-
 
 ```
 python main.py 
@@ -46,6 +46,6 @@ python main.py
 
 Open a browser at [https://localhost:9443/](https://localhost:9443/)
 
-Accept the self-signed certificate.
+You will need to accept the self-signed certificate.
 
 
