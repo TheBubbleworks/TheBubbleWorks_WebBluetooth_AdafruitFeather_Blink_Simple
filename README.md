@@ -49,6 +49,6 @@ python main.py
 
 Open a browser at [https://localhost:9443/](https://localhost:9443/)
 
-You will need to accept the self-signed certificate.
+You will need to accept the self-signed certificate.  (Serving pagegs via HTTPS is a requirement of Web Bluetooth)
 
 
