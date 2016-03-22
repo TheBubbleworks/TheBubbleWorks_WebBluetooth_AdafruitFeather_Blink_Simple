@@ -19,15 +19,15 @@ Change:
 to: 
 `#define WAITFORSERIAL   false`
 
-Once the sketch is uploaded to the Feather open this web page in a browser to connect and start blinking, go crazy! :)
-
-Note: On some browser versions and platform you may get a message "GATT operation failed for unknown reason" this is often a warning that can be ignored, mostly...
+Once the sketch is uploaded to the Feather open one of the web pages mention in the *Running* section below in a browser to connect and start blinking.
 
 
 # Running
 
 To run this demo you will need to use a compatible browser ona supported OS, please see the browser
 compatibility matrix here: https://github.com/WebBluetoothCG/web-bluetooth/blob/gh-pages/implementation-status.md
+
+*Note: On some browser versions and platforms you may see a message "GATT operation failed for unknown reason" this is often a warning that can be ignored, mostly... it's still draft status*
 
 
  The demo can be 'browsed to' in multiple ways;
