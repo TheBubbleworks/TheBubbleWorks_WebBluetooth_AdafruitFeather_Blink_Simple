@@ -4,10 +4,9 @@
 - Arduino Setup:        https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/setup
 - Feather BLE Library:  https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/installing-ble-library
 - BlueFruit Firmata:    https://learn.adafruit.com/getting-started-with-the-nrf8001-bluefruit-le-breakout/software-bluefruit-firmata
-
-To run this demo you will need to use a compatible browser ona supported OS, please see the browser
-compatibility matrix here: https://github.com/WebBluetoothCG/web-bluetooth/blob/gh-pages/implementation-status.md
-
+- Arduino 1.6.x on your computer
+- Web Bluetooth enabled browser  (see Running)
+ 
 
 Once all the above is sorted then in the Arduino IDE open the example :  
 `Examples -> Adafruit BLEFirmata -> BluefruitLE_nrf51822`
@@ -27,7 +26,11 @@ Note: On some browser versions and platform you may get a message "GATT operatio
 
 # Running
 
-This demo can be viewed in multiple ways
+To run this demo you will need to use a compatible browser ona supported OS, please see the browser
+compatibility matrix here: https://github.com/WebBluetoothCG/web-bluetooth/blob/gh-pages/implementation-status.md
+
+
+ The demo can be 'browsed to' in multiple ways;
 
 * A 'Live and editable' version [on Plunker](https://embed.plnkr.co/nd5uBt/):		
 
